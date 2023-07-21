@@ -1,0 +1,16 @@
+Interview Results:
+
+My brother had this idea for a business-to-business model that is meant to serve small businesses in the food industry. 
+He had made a mock-up user interface and I was able to identify the needed entities and attributes.
+Together, we designed Better Menu's database structure from there.
+
+7/23 commits
++ Better_Menu_ERD.pdf
++ README.md
++ bettermenu_mysql_backup.sql
++ bettermenu_samplequeries.sql
+
+Just getting the project set up and started. Being new to MySQL, there were some difficulties with actually writing the code.
+Creating the tables and their attributes was arduous, and I didn't have much trouble with the syntax.
+The sample queries tore me a new one, as I am still learning how JOINs work. Took me a while to get the data I wanted from a majority of the queries I created.
+Overall, I'm satisfied with my initial progress and look forward to working on it further.
