@@ -10,7 +10,7 @@ This is a concept database for an app idea called Better Menu, a business-to-bus
 - bettermenu_mysql_backup.sql: The backup file required for installation.
 - bettermenu_samplequeries.sql: Some handy, sample queries that can be used on the database after installation.
 
-***INTALLATION***
+***INSTALLATION***
 This section assumes the user has MySQLWorkbench installed and has established a server connection.
 
 1. Download bettermenu_mysql_backup.sql, found in this repository.
